@@ -135,6 +135,9 @@
     #contact-form p, #contact-form a{
         font-size: 15px;
     }
+     #contact-info{
+        text-align: center;
+    }
     .projects{
         padding: 20px;
     }
